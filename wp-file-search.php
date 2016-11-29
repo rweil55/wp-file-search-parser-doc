@@ -1,5 +1,4 @@
 <?php
-
 /**
  * The plugin bootstrap file
  *
@@ -13,11 +12,11 @@
  * @package           Wp_File_Search
  *
  * @wordpress-plugin
- * Plugin Name:       WP File Search - parser patch - add doc
+ * Plugin Name:       WP File Search - doc, docx, odt, pdf
  * Plugin Original URI:        https://github.com/ellak-monades-aristeias/wp-file-search
  * Plugin URI:        https://github.com/rweil55/wp-file-search-parser-doc
- * Description:       WP File Search fixes the Parser conflict, added scan of .doc files
- * Version:           1.0.2    
+ * Description:       WP SEARCH FILE enables searching on pdf, docx, doc and odt files
+ * Version:           1.0.4   
  * Author:            Antonis Balasas,Roy Weil
  * Author URI:        https://plugins.RoyWeil.com/wp-file-search
  * License:           GPLv3+
